@@ -64,3 +64,5 @@ td:hover .element{
 .element{
     font-size: 11px;
 }
+
+.interv:not(.nohover):hover{}
