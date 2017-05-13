@@ -1,0 +1,66 @@
+.metaisalcalinos{
+    background-color: orange;
+}
+.naometais{
+    background-color: lawngreen;
+}
+.gasesnobres{
+    background-color: cornflowerblue;
+}
+.halogenios{
+    background-color: #00B5B5;
+}
+.semimetais{
+    background-color: #97CE68;
+}
+.metaisrepresentativos{
+    background-color: #AAB69B;   
+}
+.metaisdetransicao{
+    background-color: coral;
+}
+.lantanideos{
+    background-color: darksalmon;
+}
+.actinideos{
+    background-color: burlywood;
+}
+.metaisalcalinosterrosos{
+    background-color: #FEC606;
+}
+.numatom{
+    font-size: 12px;
+}
+.simbolo{
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.massaatom{
+    font-size: 10px;
+}
+th, td{
+    color:white;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+}
+
+div{
+    position:absolute;
+    top:5%;
+    width: 100%; 
+    height: 50%;
+}
+td:hover .element{
+    display: inline;
+}
+.element, td:hover span{
+    display: none;
+}
+.element{
+    font-size: 11px;
+}

@@ -1,0 +1,9 @@
+<style>
+    .shh, a:hover span { display: none }
+    a:hover .shh { display: inline }
+</style>
+
+<a href="http://espn.com/">
+	<span>ESPN.com</span>
+	<span class="shh">The Worldwide leader in sports</span>
+</a>
